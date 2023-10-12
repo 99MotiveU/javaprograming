@@ -1,0 +1,8 @@
+package week05;
+
+public class MyNoteBook extends NoteBook {
+	
+	public void typing() {
+		System.out.println("MyNoteBook typing()");
+	}
+}
